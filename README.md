@@ -3,7 +3,7 @@
 ## CFG
 	Files in the cfg folder go in <
 		<path/to/steam>/steamapps/common/Counter-Strike Global Offensive/csgo/cfg>
-**^_if your using the autoexec make sure you set "+exec autoexec" in your launch options_^**
+**^if your using the autoexec make sure you set _"+exec autoexec"_ in your launch options^**
 
 ## Launch options 
 	to set launch options go to your steam library, csgo, 

@@ -7,7 +7,8 @@
 		> if your using the autoexec make sure you set "+exec autoexec" in your launch options
 
 ## Launch options 
-	to set launch options go to your steam library, csgo, gear on the right side, properties, launch options will be in general
+	to set launch options go to your steam library, csgo, 
+	gear on the right side, properties, and then launch options will be in general
 
 
 
